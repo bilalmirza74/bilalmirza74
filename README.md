@@ -29,8 +29,8 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="bilalmi33913430"
-      height="40"
-      width="50"
+      height="50"
+      width="60"
   /></a>
   <a
     href="https://codesandbox.com/codesandbox.io/u/mirzamunawaralibaig4"
@@ -39,16 +39,16 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
       alt="codesandbox.io/u/mirzamunawaralibaig4"
-      height="40"
-      width="50"
+      height="50"
+      width="60"
   /></a>
   <a href="https://www.instagram.com/ali.web_dev/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="instagram.com/ali.web_dev/"
-      height="40"
-      width="50"
+      height="50"
+      width="60"
   /></a>
   <a
     href="https://auth.geeksforgeeks.org/user/auth.geeksforgeeks.org/user/763gpn9a6qapwcb8y8ffr1ngd2jbb0iuqtunab8a/practice"
@@ -57,8 +57,8 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
       alt="auth.geeksforgeeks.org/user/763gpn9a6qapwcb8y8ffr1ngd2jbb0iuqtunab8a/practice"
-      height="40"
-      width="50"
+      height="50"
+      width="60"
   /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
@@ -282,7 +282,7 @@
 </p>
 
 <p>
-  <img
+  <img style="padding: 50px;"
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalmirza74&show_icons=true&locale=en&layout=compact"
     alt="bilalmirza74"
