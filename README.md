@@ -305,3 +305,6 @@ rel="noreferrer"
     alt="bilalmirza74"
   />
 </p>
+<p align="center">
+Developed with ❤️ in India 🇮🇳 
+</p>
