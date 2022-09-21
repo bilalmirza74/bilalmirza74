@@ -1,4 +1,5 @@
-<div style="text-align: center;">[![MasterHead](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)]
+[![MasterHead](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)]
+<div style="text-align: center;">
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
