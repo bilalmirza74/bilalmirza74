@@ -282,7 +282,7 @@
 </p>
 
 <p>
-  <img style="padding: 50px;"
+  <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalmirza74&show_icons=true&locale=en&layout=compact"
     alt="bilalmirza74"
