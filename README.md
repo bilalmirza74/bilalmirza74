@@ -62,9 +62,7 @@
   /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
-
 <p align="center">
-
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -73,8 +71,7 @@
       height="40"
     />
   </a>
-
-
+  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -83,7 +80,6 @@
       height="40"
     />
   </a>
-
 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
@@ -94,7 +90,6 @@
     />
   </a>
 
-
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
@@ -103,7 +98,6 @@
       height="40"
     />
   </a>
-
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
@@ -114,7 +108,6 @@
     />
   </a>
 
-
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -123,7 +116,6 @@
       height="40"
     />
   </a>
-
 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
@@ -134,7 +126,6 @@
     />
   </a>
 
-
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -143,7 +134,6 @@
       height="40"
     />
   </a>
-
 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img
@@ -154,7 +144,6 @@
     />
   </a>
 
-
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
@@ -164,7 +153,6 @@
     />
   </a>
 
-
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -172,9 +160,8 @@
       width="40"
       height="40"
     />
+
   </a>
-
-
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
@@ -182,9 +169,8 @@
       width="40"
       height="40"
     />
+
   </a>
-
-
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -194,7 +180,6 @@
     />
   </a>
 
-
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -203,7 +188,6 @@
       height="40"
     />
   </a>
-
 
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -218,7 +202,6 @@
     />
   </a>
 
-
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -227,7 +210,6 @@
       height="40"
     />
   </a>
-
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
@@ -238,7 +220,6 @@
     />
   </a>
 
-
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -247,7 +228,6 @@
       height="40"
     />
   </a>
-
 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img
@@ -258,7 +238,6 @@
     />
   </a>
 
-
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
@@ -267,7 +246,6 @@
       height="40"
     />
   </a>
-
 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
@@ -278,7 +256,6 @@
     />
   </a>
 
-
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -287,7 +264,6 @@
       height="40"
     />
   </a>
-
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
@@ -298,7 +274,6 @@
     />
   </a>
 
-
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -308,7 +283,6 @@
     />
   </a>
 
-
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -317,7 +291,6 @@
       height="40"
     />
   </a>
-
 
   <a
     href="https://www.adobe.com/products/xd.html"
@@ -333,7 +306,6 @@
   </a>
 </p>
 
-
 <p>
   <img style="padding: 50px;"
     align="center"
@@ -342,7 +314,6 @@
   />
 </p>
 
-
 <p>
   &nbsp;<img
     align="center"
@@ -350,7 +321,6 @@
     alt="bilalmirza74"
   />
 </p>
-
 
 <p>
   <img
