@@ -37,4 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalmirza74&show_icons=true&locale=en" alt="bilalmirza74" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalmirza74&" alt="bilalmirza74" /></p>
-
