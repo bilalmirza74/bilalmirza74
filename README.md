@@ -19,7 +19,7 @@
 </p>
 
 - 🔭 I’m currently working on **React** - 🌱 I’m currently learning **React js**
-- 👨‍💻 All of my projects are available at [bilalmizra.ml](https://bilalmirza.ml/)
+- 👨‍💻 All of my projects are available at [BilalMirza.ml](https://bilalmirza.ml/)
 - 💬 Ask me about **React Node** - 📫 How to reach me
   **unknownbot411@gmail.com**
 
