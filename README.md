@@ -21,46 +21,6 @@
 - 👨‍💻 All of my projects are available at [BilalMirza.ml](https://bilalmirza.ml/)
 - 💬 Ask me about **React Node** - 📫 How to reach me
   **unknownbot411@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/bilalmi33913430" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="bilalmi33913430"
-      height="50"
-      width="60"
-  /></a>
-  <a
-    href="https://codesandbox.com/codesandbox.io/u/mirzamunawaralibaig4"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
-      alt="codesandbox.io/u/mirzamunawaralibaig4"
-      height="50"
-      width="60"
-  /></a>
-  <a href="https://www.instagram.com/ali.web_dev/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="instagram.com/ali.web_dev/"
-      height="50"
-      width="60"
-  /></a>
-  <a
-    href="https://auth.geeksforgeeks.org/user/auth.geeksforgeeks.org/user/763gpn9a6qapwcb8y8ffr1ngd2jbb0iuqtunab8a/practice"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-      alt="auth.geeksforgeeks.org/user/763gpn9a6qapwcb8y8ffr1ngd2jbb0iuqtunab8a/practice"
-      height="50"
-      width="60"
-  /></a>
-</p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
