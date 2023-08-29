@@ -181,12 +181,5 @@ target="\_blank"
 rel="noreferrer"
 >
 <p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=bilalmirza74&"
-    alt="bilalmirza74"
-  />
-</p>
-<p align="center">
 Developed with ❤️ in India 🇮🇳 
 </p>
