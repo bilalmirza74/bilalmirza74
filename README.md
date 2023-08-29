@@ -181,5 +181,5 @@ target="\_blank"
 rel="noreferrer"
 >
 <p>
-Developed with ❤️ in India 🇮🇳 
+Developed with ❤️ By Bilal Mirza
 </p>
