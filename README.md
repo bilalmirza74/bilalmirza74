@@ -9,7 +9,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on **React** - - 🌱 I’m currently learning **React js** - 
+- 🔭 I’m currently working on **AI ML** - - 🌱 I’m currently learning **AI ML** - 
 👨‍💻 All of my projects are available at [webdevfreelancer.me](https://webdevfreelancer.me)
 - 💬 Ask me about **bringing-off** - 📫 How to reach me
   **unknownbot411@gmail.com**
