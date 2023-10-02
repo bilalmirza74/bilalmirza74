@@ -10,7 +10,7 @@
 </p>
 
 - 🔭 I’m currently working on **AI ML** - - 🌱 I’m currently learning **AI ML** - 
-👨‍💻 All of my projects are available at [webdevfreelancer.me](https://webdevfreelancer.me)
+👨‍💻 Available at [webdevfreelancer.me](https://webdevfreelancer.me)
 - 💬 Ask me about **bringing-off** - 📫 How to reach me
   **unknownbot411@gmail.com**
 <h3 align="center">🚀</h3>
