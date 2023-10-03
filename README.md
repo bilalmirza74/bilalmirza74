@@ -305,3 +305,11 @@ rel="noreferrer"
     alt="bilalmirza74"
   />
 </p>
+
+<p>
+  <img
+    align="center"
+    src="https://github.com/bilalmirza74/bilalmirza74/assets/84387676/59228145-db67-4daf-a471-9b4d2513fc19"
+    alt="bilalmirza74"
+  />
+</p>
