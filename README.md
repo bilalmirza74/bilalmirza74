@@ -8,7 +8,9 @@
     alt="bilalmirza74"
   />
 </p>
+
 [![An image of @bilalmirza74's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bilalmirza74)](https://holopin.io/@bilalmirza74)
+
 - 🔭 I’m currently working on **AI ML** - - 🌱 I’m currently learning **AI ML** - 
 👨‍💻 Available at [webdevfreelancer.me](https://webdevfreelancer.me)
 - 💬 Ask me about **bringing-off** - 📫 How to reach me
